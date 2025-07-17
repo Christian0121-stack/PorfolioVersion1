@@ -7,7 +7,8 @@ It will display an introduction about myself, as well as the projects I have acc
 •Augmented Reality Projects
 •Virtual Reality Projects
 •Devices and Hardware Integrations
-**Each project will include:**
+**Each project will include:**![Uploading CTU_new_logo.png…]()
+
 •A video walkthrough based on the device or platform used
 •A description of the project
 •The purpose of the project
